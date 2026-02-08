@@ -12,7 +12,7 @@ Este no es un GitHub profesional (todavía 😏), es más bien mi cuaderno digit
 ## 🎓 Sobre mí
 
 - 🧑‍🎓 Estudiante de [tu carrera / bootcamp / grado]
-- 🌱 Actualmente aprendiendo: **[lenguajes o tecnologías]**
+- 🌱 Actualmente aprendiendo: **JS, PHP, React & Laravel**
 - 🤯 Nivel actual: *aprendiendo, rompiendo cosas y volviendo a intentarlo*
 - ☕ Combustible principal: café / mate / energía del pánico antes de entregas
 
