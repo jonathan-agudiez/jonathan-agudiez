@@ -1,16 +1,61 @@
-### Hi there 👋
+# 👋 Hola, soy John.
 
-<!--
-**jonathan-agudiez/jonathan-agudiez** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Bienvenido/a a mi GitHub de **estudiante** 📚💻  
+Este no es un GitHub profesional (todavía 😏), es más bien mi cuaderno digital donde guardo:
 
-Here are some ideas to get you started:
+- proyectos de clase  
+- experimentos que *a veces* funcionan  
+- código con comentarios tipo: “esto lo entenderé mañana”  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🎓 Sobre mí
+
+- 🧑‍🎓 Estudiante de [tu carrera / bootcamp / grado]
+- 🌱 Actualmente aprendiendo: **[lenguajes o tecnologías]**
+- 🤯 Nivel actual: *aprendiendo, rompiendo cosas y volviendo a intentarlo*
+- ☕ Combustible principal: café / mate / energía del pánico antes de entregas
+
+---
+
+## 🛠️ Tecnologías que uso (o estoy intentando usar)
+
+- 💻 Lenguajes:  
+  - C#  
+  - Java
+  - HTML, CSS & JS
+  - PHP
+
+- 🔧 Herramientas:
+  - Git & GitHub 
+  - VS Code
+  - Google / Stack Overflow / ChatGPT 🙏
+
+---
+
+## 📂 Qué encontrarás aquí
+
+- 📌 Proyectos de clase  
+- 🧪 Pruebas y mini proyectos  
+- 🐛 Bugs que algún día solucionaré  
+- 🚀 Progreso real, no solo cosas bonitas
+
+---
+
+## 📈 Objetivo de este GitHub
+
+Aprender.  
+Equivocarme.  
+Mejorar.  
+Y algún día mirar este repositorio y pensar:  
+> “wow… sí que he avanzado” 😌
+
+---
+
+## 🤝 Nota final
+
+Si ves código raro… es normal.  
+Si ves código feo… también.  
+Pero todo está hecho con ganas de aprender 💙
+
+Gracias por pasarte ✨
